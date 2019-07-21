@@ -13,6 +13,5 @@ new Vue({
             storeValue: function(event) {
                 this.value = event.target.value;
             }
-
         },
     });
